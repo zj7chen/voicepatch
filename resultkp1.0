@@ -1,0 +1,318 @@
+Epoch: 0 batch_num: 0 mini-batch Loss: -8.910576, Training Accuracy: 0.00000
+Epoch: 0 batch_num: 100 mini-batch Loss: -264.200989, Training Accuracy: 0.00000
+Epoch: 0 batch_num: 200 mini-batch Loss: -556.362732, Training Accuracy: 0.02305
+Epoch: 0 batch_num: 300 mini-batch Loss: -714.611206, Training Accuracy: 0.05195
+
+Loading training data part 1
+Time Elapsed: 21.96089506149292 secs
+
+Epoch: 0 batch_num: 400 mini-batch Loss: -899.529297, Training Accuracy: 0.07422
+Epoch: 0 batch_num: 500 mini-batch Loss: -1105.714600, Training Accuracy: 0.09258
+Epoch: 0 batch_num: 600 mini-batch Loss: -1256.856934, Training Accuracy: 0.09922
+Epoch: 0 batch_num: 700 mini-batch Loss: -1561.747070, Training Accuracy: 0.10664
+
+Loading training data part 2
+Time Elapsed: 21.794108629226685 secs
+
+Epoch: 0 batch_num: 800 mini-batch Loss: -1304.440186, Training Accuracy: 0.11289
+Epoch: 0 batch_num: 900 mini-batch Loss: -1817.826660, Training Accuracy: 0.11406
+Epoch: 0 batch_num: 1000 mini-batch Loss: -2128.141846, Training Accuracy: 0.11211
+Epoch: 0 batch_num: 1100 mini-batch Loss: -2233.444580, Training Accuracy: 0.11094
+
+Loading training data part 3
+Time Elapsed: 23.257486820220947 secs
+
+Epoch: 0 batch_num: 1200 mini-batch Loss: -2390.721191, Training Accuracy: 0.10859
+Epoch: 0 batch_num: 1300 mini-batch Loss: -2391.063477, Training Accuracy: 0.11055
+Epoch: 0 batch_num: 1400 mini-batch Loss: -2526.005859, Training Accuracy: 0.10938
+Epoch: 0 batch_num: 1500 mini-batch Loss: -2687.700684, Training Accuracy: 0.10977
+
+Loading training data part 4
+Time Elapsed: 22.113646984100342 secs
+
+Epoch: 0 batch_num: 1600 mini-batch Loss: -2909.613281, Training Accuracy: 0.11055
+Epoch: 0 batch_num: 1700 mini-batch Loss: -2776.952148, Training Accuracy: 0.11016
+Epoch: 0 batch_num: 1800 mini-batch Loss: -2885.070801, Training Accuracy: 0.11133
+Epoch: 0 batch_num: 1900 mini-batch Loss: -3464.059570, Training Accuracy: 0.11133
+
+Loading training data part 5
+Time Elapsed: 22.094101667404175 secs
+
+Epoch: 0 batch_num: 2000 mini-batch Loss: -4104.982422, Training Accuracy: 0.11133
+Epoch: 0 batch_num: 2100 mini-batch Loss: -3605.657471, Training Accuracy: 0.11250
+Epoch: 0 batch_num: 2200 mini-batch Loss: -3958.597412, Training Accuracy: 0.11367
+Epoch: 0 batch_num: 2300 mini-batch Loss: -3796.302979, Training Accuracy: 0.11445
+
+Loading training data part 6
+Time Elapsed: 22.038008451461792 secs
+
+Epoch: 0 batch_num: 2400 mini-batch Loss: -4012.411377, Training Accuracy: 0.11563
+Epoch: 0 batch_num: 2500 mini-batch Loss: -4069.775146, Training Accuracy: 0.11680
+Epoch: 0 batch_num: 2600 mini-batch Loss: -3773.711914, Training Accuracy: 0.11797
+Epoch: 0 batch_num: 2700 mini-batch Loss: -4007.901367, Training Accuracy: 0.11953
+
+Loading training data part 7
+Time Elapsed: 21.780574560165405 secs
+
+Epoch: 0 batch_num: 2800 mini-batch Loss: -4997.284180, Training Accuracy: 0.12187
+Epoch: 0 batch_num: 2900 mini-batch Loss: -4292.006836, Training Accuracy: 0.12187
+Epoch: 0 batch_num: 3000 mini-batch Loss: -4597.167480, Training Accuracy: 0.12109
+Epoch: 0 batch_num: 3100 mini-batch Loss: -4513.148926, Training Accuracy: 0.12227
+
+Loading training data part 8
+Time Elapsed: 21.995041131973267 secs
+
+Epoch: 0 batch_num: 3200 mini-batch Loss: -4433.653320, Training Accuracy: 0.12305
+Epoch: 0 batch_num: 3300 mini-batch Loss: -4915.072754, Training Accuracy: 0.12422
+Epoch: 0 batch_num: 3400 mini-batch Loss: -4745.317383, Training Accuracy: 0.12461
+Epoch: 0 batch_num: 3500 mini-batch Loss: -4956.090820, Training Accuracy: 0.12695
+
+Loading training data part 9
+Time Elapsed: 21.833695650100708 secs
+
+Epoch: 0 batch_num: 3600 mini-batch Loss: -5010.170898, Training Accuracy: 0.12812
+Epoch: 0 batch_num: 3700 mini-batch Loss: -5254.915039, Training Accuracy: 0.12891
+Epoch: 0 batch_num: 3800 mini-batch Loss: -5140.423828, Training Accuracy: 0.13008
+
+Loading training data part 10
+Time Elapsed: 21.86086630821228 secs
+
+Epoch: 0 batch_num: 3900 mini-batch Loss: -4920.554688, Training Accuracy: 0.13008
+Epoch: 0 batch_num: 4000 mini-batch Loss: -4837.959473, Training Accuracy: 0.13086
+Epoch: 0 batch_num: 4100 mini-batch Loss: -5994.378418, Training Accuracy: 0.13242
+Epoch: 0 batch_num: 4200 mini-batch Loss: -5069.333496, Training Accuracy: 0.13242
+
+Loading training data part 11
+Time Elapsed: 21.812115907669067 secs
+
+Epoch: 0 batch_num: 4300 mini-batch Loss: -5046.613281, Training Accuracy: 0.13398
+Epoch: 0 batch_num: 4400 mini-batch Loss: -5417.749023, Training Accuracy: 0.13398
+Epoch: 0 batch_num: 4500 mini-batch Loss: -4977.261719, Training Accuracy: 0.13477
+Epoch: 0 batch_num: 4600 mini-batch Loss: -5390.836914, Training Accuracy: 0.13516
+
+Loading training data part 12
+Time Elapsed: 21.802199363708496 secs
+
+Epoch: 0 batch_num: 4700 mini-batch Loss: -5597.911133, Training Accuracy: 0.13711
+Epoch: 0 batch_num: 4800 mini-batch Loss: -5667.361328, Training Accuracy: 0.13828
+Epoch: 0 batch_num: 4900 mini-batch Loss: -5455.448730, Training Accuracy: 0.13867
+Epoch: 0 batch_num: 5000 mini-batch Loss: -5580.974609, Training Accuracy: 0.13945
+
+Loading training data part 0
+Time Elapsed: 21.622994661331177 secs
+
+Finish an epoch, time elapsed: 1525.6271262168884 secs
+
+WARNING:tensorflow:From python/rnn.py:199: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+Epoch: 1 batch_num: 0 mini-batch Loss: -5779.413574, Training Accuracy: 0.13945
+Epoch: 1 batch_num: 100 mini-batch Loss: -5596.243164, Training Accuracy: 0.14023
+Epoch: 1 batch_num: 200 mini-batch Loss: -5520.888672, Training Accuracy: 0.14180
+Epoch: 1 batch_num: 300 mini-batch Loss: -6489.593750, Training Accuracy: 0.14219
+
+Loading training data part 1
+Time Elapsed: 21.940287113189697 secs
+
+Epoch: 1 batch_num: 400 mini-batch Loss: -6266.448242, Training Accuracy: 0.14297
+Epoch: 1 batch_num: 500 mini-batch Loss: -6088.783691, Training Accuracy: 0.14414
+Epoch: 1 batch_num: 600 mini-batch Loss: -5619.052734, Training Accuracy: 0.14453
+Epoch: 1 batch_num: 700 mini-batch Loss: -6364.513672, Training Accuracy: 0.14453
+
+Loading training data part 2
+Time Elapsed: 21.65302538871765 secs
+
+Epoch: 1 batch_num: 800 mini-batch Loss: -6612.729004, Training Accuracy: 0.14570
+Epoch: 1 batch_num: 900 mini-batch Loss: -6049.757812, Training Accuracy: 0.14609
+Epoch: 1 batch_num: 1000 mini-batch Loss: -6319.296387, Training Accuracy: 0.14609
+Epoch: 1 batch_num: 1100 mini-batch Loss: -6249.472656, Training Accuracy: 0.14609
+
+Loading training data part 3
+Time Elapsed: 21.86048936843872 secs
+
+Epoch: 1 batch_num: 1200 mini-batch Loss: -6468.588867, Training Accuracy: 0.14570
+Epoch: 1 batch_num: 1300 mini-batch Loss: -6414.943359, Training Accuracy: 0.14727
+Epoch: 1 batch_num: 1400 mini-batch Loss: -6190.720215, Training Accuracy: 0.14727
+Epoch: 1 batch_num: 1500 mini-batch Loss: -7126.411133, Training Accuracy: 0.14648
+
+Loading training data part 4
+Time Elapsed: 21.631507396697998 secs
+
+Epoch: 1 batch_num: 1600 mini-batch Loss: -6281.057617, Training Accuracy: 0.14688
+Epoch: 1 batch_num: 1700 mini-batch Loss: -6717.254395, Training Accuracy: 0.14844
+Epoch: 1 batch_num: 1800 mini-batch Loss: -6047.871094, Training Accuracy: 0.14961
+Epoch: 1 batch_num: 1900 mini-batch Loss: -6635.543945, Training Accuracy: 0.15000
+
+Loading training data part 5
+Time Elapsed: 21.865567445755005 secs
+
+Epoch: 1 batch_num: 2000 mini-batch Loss: -7319.742188, Training Accuracy: 0.15078
+Epoch: 1 batch_num: 2100 mini-batch Loss: -7932.469238, Training Accuracy: 0.15078
+Epoch: 1 batch_num: 2200 mini-batch Loss: -6930.662109, Training Accuracy: 0.15156
+Epoch: 1 batch_num: 2300 mini-batch Loss: -7314.064941, Training Accuracy: 0.15273
+
+Loading training data part 6
+Time Elapsed: 21.616143226623535 secs
+
+Epoch: 1 batch_num: 2400 mini-batch Loss: -7105.330078, Training Accuracy: 0.15195
+Epoch: 1 batch_num: 2500 mini-batch Loss: -6636.753906, Training Accuracy: 0.15273
+Epoch: 1 batch_num: 2600 mini-batch Loss: -6646.714844, Training Accuracy: 0.15273
+Epoch: 1 batch_num: 2700 mini-batch Loss: -7170.087891, Training Accuracy: 0.15313
+
+Loading training data part 7
+Time Elapsed: 21.929615020751953 secs
+
+Epoch: 1 batch_num: 2800 mini-batch Loss: -7671.598633, Training Accuracy: 0.15313
+Epoch: 1 batch_num: 2900 mini-batch Loss: -7586.789062, Training Accuracy: 0.15352
+Epoch: 1 batch_num: 3000 mini-batch Loss: -7903.514648, Training Accuracy: 0.15273
+Epoch: 1 batch_num: 3100 mini-batch Loss: -6968.415527, Training Accuracy: 0.15234
+
+Loading training data part 8
+Time Elapsed: 22.03567409515381 secs
+
+Epoch: 1 batch_num: 3200 mini-batch Loss: -8023.840820, Training Accuracy: 0.15352
+Epoch: 1 batch_num: 3300 mini-batch Loss: -7992.995117, Training Accuracy: 0.15352
+Epoch: 1 batch_num: 3400 mini-batch Loss: -7425.163086, Training Accuracy: 0.15391
+Epoch: 1 batch_num: 3500 mini-batch Loss: -8151.645996, Training Accuracy: 0.15391
+
+Loading training data part 9
+Time Elapsed: 21.92202639579773 secs
+
+Epoch: 1 batch_num: 3600 mini-batch Loss: -7662.541992, Training Accuracy: 0.15430
+Epoch: 1 batch_num: 3700 mini-batch Loss: -8157.241699, Training Accuracy: 0.15547
+Epoch: 1 batch_num: 3800 mini-batch Loss: -7621.374023, Training Accuracy: 0.15625
+
+Loading training data part 10
+Time Elapsed: 22.023581743240356 secs
+
+Epoch: 1 batch_num: 3900 mini-batch Loss: -8809.108398, Training Accuracy: 0.15703
+Epoch: 1 batch_num: 4000 mini-batch Loss: -7583.090820, Training Accuracy: 0.15742
+Epoch: 1 batch_num: 4100 mini-batch Loss: -8538.822266, Training Accuracy: 0.15859
+Epoch: 1 batch_num: 4200 mini-batch Loss: -8338.277344, Training Accuracy: 0.15859
+
+Loading training data part 11
+Time Elapsed: 21.645371198654175 secs
+
+Epoch: 1 batch_num: 4300 mini-batch Loss: -8018.528320, Training Accuracy: 0.15937
+Epoch: 1 batch_num: 4400 mini-batch Loss: -7945.215820, Training Accuracy: 0.16055
+Epoch: 1 batch_num: 4500 mini-batch Loss: -8273.458008, Training Accuracy: 0.16133
+Epoch: 1 batch_num: 4600 mini-batch Loss: -8121.593750, Training Accuracy: 0.16172
+
+Loading training data part 12
+Time Elapsed: 21.806915044784546 secs
+
+Epoch: 1 batch_num: 4700 mini-batch Loss: -8759.505859, Training Accuracy: 0.16172
+Epoch: 1 batch_num: 4800 mini-batch Loss: -7633.810059, Training Accuracy: 0.16211
+Epoch: 1 batch_num: 4900 mini-batch Loss: -8606.382812, Training Accuracy: 0.16172
+Epoch: 1 batch_num: 5000 mini-batch Loss: -8616.638672, Training Accuracy: 0.16211
+
+Loading training data part 0
+Time Elapsed: 21.686426162719727 secs
+
+Finish an epoch, time elapsed: 1578.9243581295013 secs
+
+Epoch: 2 batch_num: 0 mini-batch Loss: -8657.259766, Training Accuracy: 0.16172
+Epoch: 2 batch_num: 100 mini-batch Loss: -7907.708008, Training Accuracy: 0.16328
+Epoch: 2 batch_num: 200 mini-batch Loss: -8571.134766, Training Accuracy: 0.16328
+Epoch: 2 batch_num: 300 mini-batch Loss: -8493.720703, Training Accuracy: 0.16328
+
+Loading training data part 1
+Time Elapsed: 21.88299250602722 secs
+
+Epoch: 2 batch_num: 400 mini-batch Loss: -8272.089844, Training Accuracy: 0.16328
+Epoch: 2 batch_num: 500 mini-batch Loss: -9142.185547, Training Accuracy: 0.16367
+Epoch: 2 batch_num: 600 mini-batch Loss: -9562.408203, Training Accuracy: 0.16406
+Epoch: 2 batch_num: 700 mini-batch Loss: -9136.796875, Training Accuracy: 0.16406
+
+Loading training data part 2
+Time Elapsed: 21.67628049850464 secs
+
+Epoch: 2 batch_num: 800 mini-batch Loss: -9038.559570, Training Accuracy: 0.16406
+Epoch: 2 batch_num: 900 mini-batch Loss: -8093.846680, Training Accuracy: 0.16406
+Epoch: 2 batch_num: 1000 mini-batch Loss: -8954.560547, Training Accuracy: 0.16406
+Epoch: 2 batch_num: 1100 mini-batch Loss: -8548.464844, Training Accuracy: 0.16406
+
+Loading training data part 3
+Time Elapsed: 21.824516534805298 secs
+
+Epoch: 2 batch_num: 1200 mini-batch Loss: -7834.104980, Training Accuracy: 0.16406
+Epoch: 2 batch_num: 1300 mini-batch Loss: -9370.958008, Training Accuracy: 0.16523
+Epoch: 2 batch_num: 1400 mini-batch Loss: -9233.437500, Training Accuracy: 0.16445
+Epoch: 2 batch_num: 1500 mini-batch Loss: -9916.214844, Training Accuracy: 0.16445
+
+Loading training data part 4
+Time Elapsed: 22.22656488418579 secs
+
+Epoch: 2 batch_num: 1600 mini-batch Loss: -8118.054199, Training Accuracy: 0.16445
+Epoch: 2 batch_num: 1700 mini-batch Loss: -9620.629883, Training Accuracy: 0.16445
+Epoch: 2 batch_num: 1800 mini-batch Loss: -9290.564453, Training Accuracy: 0.16289
+Epoch: 2 batch_num: 1900 mini-batch Loss: -8496.791992, Training Accuracy: 0.16367
+
+Loading training data part 5
+Time Elapsed: 22.070641040802002 secs
+
+Epoch: 2 batch_num: 2000 mini-batch Loss: -9354.712891, Training Accuracy: 0.16445
+Epoch: 2 batch_num: 2100 mini-batch Loss: -9669.035156, Training Accuracy: 0.16523
+Epoch: 2 batch_num: 2200 mini-batch Loss: -9738.719727, Training Accuracy: 0.16602
+Epoch: 2 batch_num: 2300 mini-batch Loss: -9205.378906, Training Accuracy: 0.16641
+
+Loading training data part 6
+Time Elapsed: 21.89327907562256 secs
+
+Epoch: 2 batch_num: 2400 mini-batch Loss: -9619.264648, Training Accuracy: 0.16602
+Epoch: 2 batch_num: 2500 mini-batch Loss: -9239.194336, Training Accuracy: 0.16641
+Epoch: 2 batch_num: 2600 mini-batch Loss: -10658.185547, Training Accuracy: 0.16641
+Epoch: 2 batch_num: 2700 mini-batch Loss: -9396.336914, Training Accuracy: 0.16680
+
+Loading training data part 7
+Time Elapsed: 21.992391347885132 secs
+
+Epoch: 2 batch_num: 2800 mini-batch Loss: -10274.707031, Training Accuracy: 0.16641
+Epoch: 2 batch_num: 2900 mini-batch Loss: -9708.740234, Training Accuracy: 0.16641
+Epoch: 2 batch_num: 3000 mini-batch Loss: -9918.187500, Training Accuracy: 0.16562
+Epoch: 2 batch_num: 3100 mini-batch Loss: -10941.705078, Training Accuracy: 0.16484
+
+Loading training data part 8
+Time Elapsed: 22.049742221832275 secs
+
+Epoch: 2 batch_num: 3200 mini-batch Loss: -10301.038086, Training Accuracy: 0.16602
+Epoch: 2 batch_num: 3300 mini-batch Loss: -10521.949219, Training Accuracy: 0.16680
+Epoch: 2 batch_num: 3400 mini-batch Loss: -9819.726562, Training Accuracy: 0.16641
+
+Loading training data part 9
+Time Elapsed: 21.754714965820312 secs
+
+Epoch: 2 batch_num: 3500 mini-batch Loss: -11345.615234, Training Accuracy: 0.16641
+Epoch: 2 batch_num: 3600 mini-batch Loss: -10252.495117, Training Accuracy: 0.16680
+Epoch: 2 batch_num: 3700 mini-batch Loss: -10498.117188, Training Accuracy: 0.16602
+Epoch: 2 batch_num: 3800 mini-batch Loss: -12499.525391, Training Accuracy: 0.16602
+
+Loading training data part 10
+Time Elapsed: 21.90030813217163 secs
+
+Epoch: 2 batch_num: 3900 mini-batch Loss: -10113.939453, Training Accuracy: 0.16602
+Epoch: 2 batch_num: 4000 mini-batch Loss: -10120.057617, Training Accuracy: 0.16562
+Epoch: 2 batch_num: 4100 mini-batch Loss: -10229.156250, Training Accuracy: 0.16641
+Epoch: 2 batch_num: 4200 mini-batch Loss: -10751.210938, Training Accuracy: 0.16680
+
+Loading training data part 11
+Time Elapsed: 21.837650060653687 secs
+
+Epoch: 2 batch_num: 4300 mini-batch Loss: -9603.532227, Training Accuracy: 0.16680
+Epoch: 2 batch_num: 4400 mini-batch Loss: -9954.911133, Training Accuracy: 0.16680
+Epoch: 2 batch_num: 4500 mini-batch Loss: -10535.474609, Training Accuracy: 0.16719
+Epoch: 2 batch_num: 4600 mini-batch Loss: -10439.097656, Training Accuracy: 0.16719
+
+Loading training data part 12
+Time Elapsed: 21.785377740859985 secs
+
+Epoch: 2 batch_num: 4700 mini-batch Loss: -11192.871094, Training Accuracy: 0.16758
+Epoch: 2 batch_num: 4800 mini-batch Loss: -11724.337891, Training Accuracy: 0.16836
+Epoch: 2 batch_num: 4900 mini-batch Loss: -10469.402344, Training Accuracy: 0.16758
+Epoch: 2 batch_num: 5000 mini-batch Loss: -11879.460938, Training Accuracy: 0.16719
+
+Loading training data part 0
+Time Elapsed: 21.551926612854004 secs
+
+Finish an epoch, time elapsed: 1621.270306110382 secs
+
+Optimization Finished!
